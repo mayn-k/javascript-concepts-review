@@ -12,3 +12,6 @@ const person = {
     last: `bos`,
     age: 10,
 }
+
+let somethingUndefined;
+const somethingNull = null;
